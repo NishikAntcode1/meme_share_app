@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">meme_share</string>
+    <string name="welcome">Welcome,</string>
+    <string name="landingPageDescription">Don\'t be a superstitious, be a little stitious.</string>
+    <string name="landingPageButtonText"><![CDATA[Get Started ->]]></string>
+    <string name="landingPageImageContent">image</string>
+    <string name="memPageImageDescription">description</string>
+    <string name="next">Next</string>
+    <string name="share">Share</string>
+    <string name="memetitletext">memeTitleText</string>
+    <string name="memeAuthor">meme by author</string>
+</resources>
